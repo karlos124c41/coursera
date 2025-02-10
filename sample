@@ -1,0 +1,5 @@
+mkdir SpaceX_folder
+echo "Sample content" > my_folder/new_file.txt
+git add .
+git commit -m "Added new subfolder with file"
+git push
